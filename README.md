@@ -6,7 +6,7 @@
 <h1 align="center">Hello! 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=beshoymedhat1&color=blueviolet&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=beshoymedhat1&color=blue&style=flat" alt="Profile views"/>
 </p>
 
 ### 👨‍💻 About Me
