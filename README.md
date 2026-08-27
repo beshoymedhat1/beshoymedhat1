@@ -1,16 +1,29 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://linkedin.com/in/beshoymedhatt"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:beshoymedhat362@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-<!--
-**beshoymedhat1/beshoymedhat1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello! 👋</h1>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+I'm **Beshoy Medhat** from Cairo, Egypt.
+
+- 🎓 AI Engineer — Graduate of the Faculty of Computers and Artificial Intelligence, Cairo University
+- ⚙️ Currently building backend development skills with **Java & Spring Boot**
+- 🤖 Experience in Machine Learning, Deep Learning, and NLP (built projects using TensorFlow, PyTorch, and LLMs)
+- 🔍 I like searching and learning new things
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,spring,flask,js,git,github,vscode" />
+</p>
+
+### 📊 Tech I Work With
+
+**Programming Languages:** Python, Java, C++, SQL, JavaScript
+**Frameworks & Libraries:** Spring Boot, Flask, TensorFlow, PyTorch, Keras, Pandas, NumPy
+**Tools:** Git, GitHub, VS Code, Google Colab, Docker
